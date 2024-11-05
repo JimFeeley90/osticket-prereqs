@@ -1,4 +1,4 @@
-# osticket-prereqs
+# osTicket-prereqs
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
@@ -36,6 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 <img src="https://i.imgur.com/NAnVTeS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/E7Pg24V.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Install / Enable IIS in Windows WITH CGI
@@ -43,11 +44,10 @@ Install / Enable IIS in Windows WITH CGI
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src=https://i.imgur.com/E7Pg24V.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/npbiUnW.png height="80%" width="80%" alt="Disk Sanitization Steps"/>" 
 
 </p>
-
+Install PHP manager from the osTicket installation file
 <p>
 
 </p>
