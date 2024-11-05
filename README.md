@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://i.imgur.com/KIS9LSQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-I began by installing the osTicket application from the provided ZIP file.
+ Install the osTicket application from the provided ZIP file.
 <p>
 
 </p>
@@ -38,14 +38,17 @@ I began by installing the osTicket application from the provided ZIP file.
 <img src="https://i.imgur.com/NAnVTeS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Install / Enable IIS in Windows WITH CGI
+
 <br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/E7Pg24V.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
