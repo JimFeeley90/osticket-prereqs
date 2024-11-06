@@ -49,6 +49,7 @@ Install / Enable IIS in Windows WITH CGI
 </p>
 Install PHP manager from the osTicket installation file
 <p>
+<img src=https://i.imgur.com/2dKgJOb.png height="80%" width="80%" alt="Disk Sanitization Steps"/>" 
 
 </p>
 <br />
