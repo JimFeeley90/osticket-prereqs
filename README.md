@@ -64,3 +64,7 @@ Install MySQL 5.5.62
 <p>
  Install HeidiSQL and create an "osTicket" database.
 </p>
+
+<p>
+ <img src=https://i.imgur.com/CRWjutq.png height="80%" width="80%" alt="Disk Sanitization Steps"/>" 
+</p>
