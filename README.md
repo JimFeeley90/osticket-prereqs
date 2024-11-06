@@ -69,3 +69,7 @@ Install MySQL 5.5.62
  <img src=https://i.imgur.com/CRWjutq.png height="80%" width="80%" alt="Disk Sanitization Steps"/>" 
  <img src=https://i.imgur.com/SG1Y2rL.png height="80%" width="80%" alt="Disk Sanitization Steps"/>" 
 </p>
+
+<p>
+ osTicket has been installed!
+</p>
