@@ -54,3 +54,7 @@ Install PHP manager from the osTicket installation file
 </p>
 Install MySQL 5.5.62
 <br />
+
+<p>
+ <img src=https://i.imgur.com/rRUJWAy.png height="80%" width="80%" alt="Disk Sanitization Steps"/>" 
+</p>
