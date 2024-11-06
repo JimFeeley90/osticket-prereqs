@@ -39,7 +39,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  <img src=https://i.imgur.com/E7Pg24V.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install / Enable IIS in Windows WITH CGI
+ 
+Install / Enable IIS in Windows WITH CGI.
 
 <br />
 
@@ -47,7 +48,8 @@ Install / Enable IIS in Windows WITH CGI
 <img src=https://i.imgur.com/npbiUnW.png height="80%" width="80%" alt="Disk Sanitization Steps"/>" 
 
 </p>
-Install PHP manager from the osTicket installation file
+
+Install PHP manager from the osTicket installation file.
 <p>
 <img src=https://i.imgur.com/2dKgJOb.png height="80%" width="80%" alt="Disk Sanitization Steps"/>" 
 
@@ -56,5 +58,9 @@ Install MySQL 5.5.62
 <br />
 
 <p>
+ 
  <img src=https://i.imgur.com/rRUJWAy.png height="80%" width="80%" alt="Disk Sanitization Steps"/>" 
+</p>
+<p>
+ Install HeidiSQL and create an "osTicket" database.
 </p>
