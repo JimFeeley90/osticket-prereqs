@@ -54,7 +54,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src=https://i.imgur.com/2dKgJOb.png height="80%" width="80%" alt="Disk Sanitization Steps"/>" 
 
 </p>
-Install MySQL 5.5.62
+<h2>Install MySQL 5.5.62</h2>
 <br />
 
 <p>
@@ -62,7 +62,7 @@ Install MySQL 5.5.62
  <img src=https://i.imgur.com/rRUJWAy.png height="80%" width="80%" alt="Disk Sanitization Steps"/>" 
 </p>
 <p>
- Install HeidiSQL and create an "osTicket" database.
+<h2> Install HeidiSQL and create an "osTicket" database</h2>
 </p>
 
 <p>
@@ -71,5 +71,5 @@ Install MySQL 5.5.62
 </p>
 
 <p>
- osTicket has been installed!
+<h2> osTicket has been installed!</h2>
 </p>
