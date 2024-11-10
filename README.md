@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://i.imgur.com/KIS9LSQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
- Install the osTicket application from the provided ZIP file.
+<h2> Install the osTicket application from the provided ZIP file</h2>
 <p>
 
 </p>
