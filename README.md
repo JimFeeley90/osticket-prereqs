@@ -28,7 +28,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src=https://i.imgur.com/rxqw7nq.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<h2> Install the osTicket application from the provided ZIP file</h2>
+<h2> :To install the osTicket application from the provided ZIP file, first download the ZIP archive to your computer. Once downloaded, extract the contents of the ZIP file to a folder on your server or local machine. Ensure your server meets the system requirements, such as PHP and MySQL. After extraction, upload the contents to your web server’s root directory or a subfolder where you want osTicket to be installed. Next, open your browser and navigate to the directory where you uploaded the files. Follow the on-screen installation instructions to complete the setup, which will involve configuring your database settings and admin details.
+
+
+
+</h2>
 <p>
 
 </p>
@@ -40,7 +44,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
  
-<h2>Install / Enable IIS in Windows WITH CGI</h2>
+<h2>Install / Enable IIS in Windows WITH CGI: To install or enable IIS (Internet Information Services) with CGI support on Windows, first, open the "Control Panel" and go to "Programs" > "Turn Windows features on or off." In the "Windows Features" window, find and expand the "Internet Information Services" section. Check the box for "Web Management Tools" and "World Wide Web Services," then expand the "Application Development Features" and enable "CGI" by checking the corresponding box. Click "OK" to begin the installation. Once completed, IIS will be installed with CGI support enabled, allowing you to run CGI scripts on your web server. You can verify this by opening the IIS Manager and checking the features available under your server settings.
+
+
+
+</h2>
 
 <br />
 
