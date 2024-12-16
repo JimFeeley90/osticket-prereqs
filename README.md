@@ -57,7 +57,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 
-<h2>Install PHP manager from the osTicket installation file</h2>
+<h2>Install PHP manager from the osTicket installation file: To install the PHP Manager for IIS from the osTicket installation ZIP file, first extract the contents of the osTicket ZIP file to a folder on your computer. Inside the extracted folder, locate the "PHP Manager" folder. Copy the PHP Manager installer (usually named something like phpmanager_installer.exe) to your server. Run the installer, and follow the on-screen instructions to complete the installation. After installation, open the IIS Manager, and you should see the "PHP Manager" option under the server's features. This tool allows you to manage PHP settings for IIS, ensuring that PHP is properly configured for use with osTicket.
+
+
+
+</h2>
 <p>
 <img src=https://i.imgur.com/2dKgJOb.png height="80%" width="80%" alt="Disk Sanitization Steps"/>" 
 
