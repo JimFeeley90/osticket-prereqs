@@ -66,7 +66,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src=https://i.imgur.com/2dKgJOb.png height="80%" width="80%" alt="Disk Sanitization Steps"/>" 
 
 </p>
-<h2>Install MySQL 5.5.62</h2>
+<h2>Install MySQL 5.5.62: To install MySQL 5.5.62, begin by downloading the MySQL 5.5.62 installer from the official MySQL website or a trusted source. Once the installer is downloaded, run the setup file and follow the on-screen prompts. During installation, choose the appropriate setup type (e.g., Typical or Custom) based on your needs. When prompted, configure your MySQL root password and set up any additional options as required. After installation is complete, launch the MySQL Server instance from the Start menu or the MySQL Workbench. Verify the installation by opening a command prompt and typing mysql -u root -p to access the MySQL command line, then entering your root password.</h2>
 <br />
 
 <p>
