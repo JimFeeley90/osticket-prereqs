@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src=https://i.imgur.com/rxqw7nq.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<h2> :To install the osTicket application from the provided ZIP file, first download the ZIP archive to your computer. Once downloaded, extract the contents of the ZIP file to a folder on your server or local machine. Ensure your server meets the system requirements, such as PHP and MySQL. After extraction, upload the contents to your web server’s root directory or a subfolder where you want osTicket to be installed. Next, open your browser and navigate to the directory where you uploaded the files. Follow the on-screen installation instructions to complete the setup, which will involve configuring your database settings and admin details.
+<h2> Install osTicket installation zip file: To install the osTicket application from the provided ZIP file, first download the ZIP archive to your computer. Once downloaded, extract the contents of the ZIP file to a folder on your server or local machine. Ensure your server meets the system requirements, such as PHP and MySQL. After extraction, upload the contents to your web server’s root directory or a subfolder where you want osTicket to be installed. Next, open your browser and navigate to the directory where you uploaded the files. Follow the on-screen installation instructions to complete the setup, which will involve configuring your database settings and admin details.
 
 
 
