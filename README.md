@@ -74,7 +74,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  <img src=https://i.imgur.com/rRUJWAy.png height="80%" width="80%" alt="Disk Sanitization Steps"/>" 
 </p>
 <p>
-<h2> Install HeidiSQL and create an "osTicket" database</h2>
+<h2> Install HeidiSQL and create an "osTicket" database: To install HeidiSQL and create an "osTicket" database, first, download the HeidiSQL installer from the official website and run the setup file. Follow the installation prompts to complete the process. Once installed, open HeidiSQL and connect to your MySQL server by entering the connection details (e.g., hostname, username, and password). After connecting, right-click on the "Databases" section in the left panel and select "Create new database." Name the new database "osTicket" and choose the appropriate collation (usually "utf8_general_ci"). Click "OK" to create the database, which is now ready to be used during the osTicket installation.
+
+
+
+</h2>
 </p>
 
 <p>
